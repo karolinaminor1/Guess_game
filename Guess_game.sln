@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32407.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Guess_game", "http://localhost:50824", "{606D101A-7733-4494-BA02-31F765743279}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_50824"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\OneDrive\Dokumenty\My Web Sites\Guess_game\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_50824\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_50824"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\OneDrive\Dokumenty\My Web Sites\Guess_game\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_50824\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "..\..\..\OneDrive\Dokumenty\My Web Sites\Guess_game\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{606D101A-7733-4494-BA02-31F765743279}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{606D101A-7733-4494-BA02-31F765743279}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {891C79F0-FD7A-419E-9B91-F7DA1716FC62}
+	EndGlobalSection
+EndGlobal
